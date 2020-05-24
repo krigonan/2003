@@ -1,19 +1,16 @@
 {
   
 "krigonan":[  
-{     "textcontent":"Start Present Indefinite tense now" },
+{ "GroupName":"Learn English 1", "GroupDescription":"Start Learning English Now", "GroupLink":"https://direct2url.firebaseapp.com/"},
 
-{  "textcontent":"Start Present Continuous tense now" },
-{  "textcontent":"Start Present Perfect tense now" },
-{  "textcontent":"Start Present Perfect Continuous tense now" },
-{  "textcontent":"Start Past Indefinite tense now" },
-{  "textcontent":"Start Past Continuous tense now" },
-{  "textcontent":"Start Past Perfect tense now" },
-{  "textcontent":"Start Past Perfect Continuous tense now" },
-{  "textcontent":"Start Future Indefinite tense now" },
-{  "textcontent":"Start Future Continuous tense now" },
-{  "textcontent":"Start Future Perfect tense now" },
-{  "textcontent":"Start Future Perfect Continuous tense now" },
-{  "textcontent":"Start Model Verbs now" },
-{  "textcontent":"Start Common Phrases now" }
+{ "GroupName":"Learn English 2",  "GroupDescription":"Start Learning English Now","GroupLink":"https://direct2url.firebaseapp.com/"},
+
+{ "GroupName":"Learn English 3",  "GroupDescription":"Start Learning English Now","GroupLink":"https://direct2url.firebaseapp.com/"},
+
+{ "GroupName":"Learn English 4",  "GroupDescription":"Start Learning English Now","GroupLink":"https://direct2url.firebaseapp.com/"},
+
+{ "GroupName":"Learn English 5",  "GroupDescription":"Start Learning English Now","GroupLink":"https://direct2url.firebaseapp.com/"},
+
+{ "GroupName":"Learn English 6",  "GroupDescription":"Start Learning English Now","GroupLink":"https://direct2url.firebaseapp.com/"}
+
 ]}
